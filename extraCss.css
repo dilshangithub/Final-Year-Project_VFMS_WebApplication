@@ -1,0 +1,292 @@
+.dashboardIcon{
+    width: 30px;
+}
+.logout_logo{
+    width: 25px;
+}
+.fontColor{
+    color:gray;
+    font-weight: bold;
+    font-size: medium;
+}
+.upperNev{
+    height: 50px;
+}
+hr.hrTag{
+    background-color: gray;
+}
+.titleFontSize{
+    font-size: 15px;
+}
+.bodyContainer{
+    height: 120px;
+    margin-left: 365px;
+    margin-top: 75px;
+    padding-top: 12px;
+    background-color:#dbdbdb ;
+}
+.boxIcon{
+    height: 80px;
+    float: right;
+    margin-top: -78px;
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+}
+.box_dashboard {
+    border-style: solid;
+    border-width: thin;
+    width: 205px;
+    height: 90px;
+    margin-top: 2px;
+    float: left;
+}
+.box_content_padding{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.box_dashboard_color1{
+    border-color: #007377;
+    background: #00B9DF;
+}
+.box_dashboard_color2{
+    border-color: #00540B;
+    background: #69C262;
+}
+.box_dashboard_color3{
+    border-color: #653D00;
+    background: #FFA42D;
+}
+.box_dashboard_color4{
+    border-color: #510000;
+    background: #F14747;
+}
+.dashboard_graph_container {
+    margin-left: 365px;
+}
+.box_siz_dashboard{
+     width: 212px;
+ }
+.vehicle_Management_Nav{
+    width: 945px;
+    height: 520px;
+    margin-left: 380px;
+    margin-top: 90px;
+    background-color:#dbdbdb;
+}
+.vehicle_Management_icons{
+    height: 140px;
+}
+.vm_icon_position{
+    margin-top: 30px;
+    margin-left: 95px;
+    float: left;
+}
+.vm_icon_position2{
+    margin-top: 30px;
+    margin-left: 200px;
+    float: left;
+}
+.vm_upperNav{
+    width: 970px;
+    height: 80px;
+    margin-left: 368px;
+    margin-top: -575px;
+    padding-top: 12px;
+}
+.vm_upperNavIcon {
+    height: 40px;
+}
+.vm_upperNavContainer{
+    width: 970px;
+    height: 80px;
+    margin-left: 368px;
+    margin-top: 85px;
+    background-color:#dbdbdb;
+}
+.vm_upperNavPosition{
+    width: 191px;
+    float: left;
+}
+.vm_icon_fontSize{
+    font-size: 13px;
+}
+.vm_upperNavHide{
+    filter: grayscale(100%);
+    color: gray;
+}
+.fm_form1_container{
+    width: 970px;
+    margin-left: 368px;
+    margin-top: 15px;
+    border-style: solid;
+    border-width: thin;
+    border-color: #414141;
+}
+.fm_form2_container {
+    width: 970px;
+    margin-left: 368px;
+    margin-top: 80px;
+    border-style: solid;
+    border-width: thin;
+    border-color: #414141;
+}
+.tc_position{
+    padding-left: 20px;
+    padding-top: 15px;
+}
+.tc_position2{
+    padding-left: 20px;
+}
+.tc_position3{
+    padding-left: 40px;
+    padding-top: 10px;
+}
+.sprPartsTable_h{
+    height: 22px;
+}
+.sprPartsTotalCost{
+    font-size: 25px;
+}
+.historyTableTxt{
+    font-size: 12px;
+}
+.sprPartsTotalCostTable{
+    margin-top: -100px;
+}
+.rs_btn_size{
+    width: 85px;
+    height: 32px;
+}
+.VETC_font_size{
+    font-size: 10px;
+    margin-top: -4px;
+}
+.colWidth{
+    width: 250px;
+}
+.message_icon{
+    height: 20px;
+}
+.tripScheduleSummeryBox{
+    width: 400px;
+}
+.reportLogo{
+    height: 60px;
+}
+/*Side navBar styles*/
+.sideNavActive{
+    border-width: thin;
+    background-image: linear-gradient(90deg, gray,#343a40);
+    background-color:#dbdbdb ;
+    color: white;
+    font-size: larger;
+}
+.sidebarIconHide{
+    filter: grayscale(100%);
+}
+a:hover{
+    color: white;
+}
+.sideNavBar{
+    width: 330px;
+    z-index: 1;
+    margin-top: 150px;
+    background-color: #343a40;
+    overflow-x: hidden;
+}
+.bodyFixedSize{
+    margin-left: 341px;
+    margin-top: 54px;
+}
+.imgErrorFontSize{
+    font-size: 5px;
+    color: red;
+}
+/*Dashboard vehicle, driver, schedule and warning container dropdown styles*/
+.dropdown-content {
+    display: none;
+    margin-top: 6px;
+    position: absolute;
+    background-color: rgba(44, 44, 44, 0.65);
+    min-width: 100px;
+    z-index: 1;
+}
+.dropdown-content a {
+    color: rgb(255, 255, 255);
+    padding: 5px 5px;
+    font-size: 12px;
+    text-decoration: none;
+    display: block;
+}
+.dropdown-content a:hover {background-color: rgba(0, 0, 0, 0.65);}
+.dropdown-dashboard-containers:hover .dropdown-content {display: block;}
+
+.reportError{
+    margin-top: 200px;
+}
+.vehicleReg_input_size{
+    width:208px;
+}
+.userReg_input_size{
+    width: 268px;
+}
+.userReg_input2_size{
+    width: 208px;
+}
+.license_input_size{
+    width: 130px;
+}
+.fuel_input_size{
+    width: 164px;
+}
+.accident_input_size{
+    width: 164px;
+}
+.insurance_input_size{
+    width: 150px;
+}
+.findLocation_btn{
+    width: 150px;
+    height: 30px;
+    border: black;
+    border-style: solid;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+.findLocation_map{
+    width: 430px;
+    height: 300px;
+
+}
+.tripDirectory_btn{
+    width: 150px;
+    height:32px;
+    border: black;
+    border-style: solid;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+.notification_icon{
+    width: 20px;
+    margin-top: 10px;
+}
+.dropdown-notiy-size{
+    width: 100px;
+}
+.dropdown_notificaations{
+    height:400px;
+    overflow-y: scroll;
+}
+.dropdown_scroll_dashboard{
+    height:150px;
+    overflow-y: scroll;
+}
+.dropdown_scroll_dashboard_warnings{
+    height:300px;
+    overflow-y: scroll;
+}
+
